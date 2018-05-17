@@ -22,5 +22,6 @@ while( have_posts()) :
 <?php
 endwhile;
 
+// test
 get_footer();
 ?>

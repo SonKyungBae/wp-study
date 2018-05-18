@@ -20,23 +20,23 @@ msgid "Twenty Fifteen"
 msgstr "Twenty Fifteen"
 
 #. translators: %s: post title
-#: inc/template-tags.php:123
+#: inc/template-tags.php:130
 msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
 msgstr "<span class=\"screen-reader-text\">%s</span>에 댓글 남기기"
 
-#: single.php:37
+#: single.php:39
 msgid "Previous post:"
 msgstr "이전 글:"
 
-#: single.php:36
+#: single.php:38
 msgid "Previous"
 msgstr "이전"
 
-#: single.php:34
+#: single.php:36
 msgid "Next post:"
 msgstr "다음 글:"
 
-#: single.php:33
+#: single.php:35
 msgid "Next"
 msgstr "다음"
 
@@ -44,37 +44,37 @@ msgstr "다음"
 msgid "Search Results for: %s"
 msgstr "검색 결과 : %s"
 
-#: inc/template-tags.php:113
+#: inc/template-tags.php:120
 msgctxt "Used before full size attachment link."
 msgid "Full size"
 msgstr "전체 크기"
 
-#: inc/template-tags.php:102
+#: inc/template-tags.php:108
 msgctxt "Used before tag names."
 msgid "Tags"
 msgstr "태그"
 
-#: inc/template-tags.php:94
+#: inc/template-tags.php:99
 msgctxt "Used before category names."
 msgid "Categories"
 msgstr "카테고리"
 
-#: inc/template-tags.php:91 inc/template-tags.php:99
+#: inc/template-tags.php:95 inc/template-tags.php:104
 msgctxt "Used between list items, there is a space after the comma."
 msgid ", "
 msgstr ", "
 
-#: inc/template-tags.php:85
+#: inc/template-tags.php:89
 msgctxt "Used before post author name."
 msgid "Author"
 msgstr "글쓴이"
 
-#: inc/template-tags.php:76
+#: inc/template-tags.php:79
 msgctxt "Used before publish date."
 msgid "Posted on"
 msgstr "작성일자"
 
-#: inc/template-tags.php:55
+#: inc/template-tags.php:56
 msgctxt "Used before post format."
 msgid "Format"
 msgstr "글 형식"
@@ -95,64 +95,64 @@ msgstr "이전 댓글"
 msgid "Comment navigation"
 msgstr "댓글 네비게이션"
 
-#: inc/customizer.php:205
+#: inc/customizer.php:226
 msgid "Blue"
 msgstr "파랑"
 
-#: inc/customizer.php:194
+#: inc/customizer.php:215
 msgid "Purple"
 msgstr "보라색"
 
-#: inc/customizer.php:183
+#: inc/customizer.php:204
 msgid "Pink"
 msgstr "분홍색"
 
-#: inc/customizer.php:172
+#: inc/customizer.php:193
 msgid "Yellow"
 msgstr "노란색"
 
-#: inc/customizer.php:161
+#: inc/customizer.php:182
 msgid "Dark"
 msgstr "검정"
 
-#: inc/customizer.php:150
+#: inc/customizer.php:171
 msgid "Default"
 msgstr "기본"
 
-#: inc/customizer.php:75
+#: inc/customizer.php:93
 msgid "Header and Sidebar Background Color"
 msgstr "헤더 및 사이드바 배경 색상"
 
-#: inc/customizer.php:60 inc/customizer.php:76 inc/customizer.php:81
+#: inc/customizer.php:72 inc/customizer.php:94 inc/customizer.php:101
 msgid "Applied to the header on small screens and the sidebar on wide screens."
 msgstr "작은 화면에서는 헤더에, 큰 화면에서는 사이드바에 적용됩니다."
 
-#: inc/customizer.php:59
+#: inc/customizer.php:71
 msgid "Header and Sidebar Text Color"
 msgstr "헤더 및 사이드바 텍스트 색상"
 
-#: inc/customizer.php:44
+#: inc/customizer.php:51
 msgid "Base Color Scheme"
 msgstr "기본 색상 구조"
 
-#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+#: inc/back-compat.php:37 inc/back-compat.php:48 inc/back-compat.php:62
 msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
 msgstr "Twenty Fifteen은 최소한 워드프레스 4.1 버전이 필수입니다. 현재 %s 버전을 사용 중입니다. 업그레이드 하고 다시 해주세요."
 
-#: image.php:84
+#: image.php:88
 msgctxt "Parent post link"
 msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
 msgstr "<span class=\"meta-nav\">발행됨</span><span class=\"post-title\">%title</span>"
 
-#: image.php:24
+#: image.php:25
 msgid "Next Image"
 msgstr "다음 이미지"
 
-#: image.php:24
+#: image.php:25
 msgid "Previous Image"
 msgstr "이전 이미지"
 
-#: header.php:45
+#: header.php:49
 msgid "Menu and widgets"
 msgstr "메뉴와 위젯"
 
@@ -160,18 +160,18 @@ msgstr "메뉴와 위젯"
 msgid "Skip to content"
 msgstr "컨텐츠로 건너뛰기"
 
-#: functions.php:283
+#: functions.php:312
 msgid "collapse child menu"
 msgstr "하위 메뉴 축소"
 
-#: functions.php:282
+#: functions.php:311
 msgid "expand child menu"
 msgstr "하위 메뉴 확장"
 
 #. Translators: To add an additional character subset specific to your
 #. language, translate this to 'greek', 'cyrillic', 'devanagari' or
 #. 'vietnamese'. Do not translate into your own language.
-#: functions.php:212
+#: functions.php:238
 msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
 msgid "no-subset"
 msgstr "서브셋 없음"
@@ -179,7 +179,7 @@ msgstr "서브셋 없음"
 #. Translators: If there are characters in your language that are not supported
 #. by Inconsolata, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:204
+#: functions.php:230
 msgctxt "Inconsolata font: on or off"
 msgid "on"
 msgstr "켜기"
@@ -187,7 +187,7 @@ msgstr "켜기"
 #. Translators: If there are characters in your language that are not supported
 #. by Noto Serif, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:196
+#: functions.php:222
 msgctxt "Noto Serif font: on or off"
 msgid "on"
 msgstr "켜기"
@@ -195,34 +195,34 @@ msgstr "켜기"
 #. Translators: If there are characters in your language that are not supported
 #. by Noto Sans, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:188
+#: functions.php:214
 msgctxt "Noto Sans font: on or off"
 msgid "on"
 msgstr "켜기"
 
-#: functions.php:162
+#: functions.php:187
 msgid "Add widgets here to appear in your sidebar."
 msgstr "위젯을 사이드바에 나타나도록 하려면 여기서 추가하세요."
 
-#: functions.php:160
+#: functions.php:185
 msgid "Widget Area"
 msgstr "위젯 영역"
 
-#: functions.php:86
+#: functions.php:87
 msgid "Social Links Menu"
 msgstr "소셜 링크 메뉴"
 
-#: functions.php:85
+#: functions.php:86
 msgid "Primary Menu"
 msgstr "주 메뉴"
 
-#: footer.php:25
+#: footer.php:31
 msgid "Proudly powered by %s"
 msgstr "Proudly powered by %s"
 
-#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.9)  #-#-#-#-#
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.0)  #-#-#-#-#
 #. Author URI of the plugin/theme
-#: footer.php:25
+#: footer.php:30
 msgid "https://wordpress.org/"
 msgstr "https://wordpress.org/"
 
@@ -242,21 +242,21 @@ msgstr "첫번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기�
 msgid "Nothing Found"
 msgstr "찾지 못함"
 
-#: content-link.php:56 content-page.php:35 content-search.php:28
-#: content-search.php:33 content.php:57 image.php:71
+#: content-link.php:60 content-page.php:37 content-search.php:28
+#: content-search.php:33 content.php:61 image.php:74
 msgid "Edit"
 msgstr "편집"
 
-#: content-link.php:36 content-page.php:25 content.php:38 image.php:59
+#: content-link.php:39 content-page.php:26 content.php:41 image.php:61
 msgid "Pages:"
 msgstr "페이지:"
 
 #. translators: %s: Name of current post
-#: content-link.php:31 content.php:33 inc/template-tags.php:238
+#: content-link.php:32 content.php:34 inc/template-tags.php:249
 msgid "Continue reading %s"
 msgstr "%s 더보기"
 
-#: comments.php:69
+#: comments.php:71
 msgid "Comments are closed."
 msgstr "댓글은 닫혔습니다."
 
@@ -268,16 +268,16 @@ msgstr "%s 의 모든 글 보기"
 msgid "Published by"
 msgstr "글쓴이"
 
-#: archive.php:51 content-link.php:40 content-page.php:29 content.php:42
-#: image.php:63 index.php:48 search.php:40
+#: archive.php:53 content-link.php:43 content-page.php:30 content.php:45
+#: image.php:65 index.php:50 search.php:43
 msgid "Page"
 msgstr "페이지"
 
-#: archive.php:50 index.php:47 search.php:39
+#: archive.php:52 index.php:49 search.php:42
 msgid "Next page"
 msgstr "다음 쪽"
 
-#: archive.php:49 index.php:46 search.php:38
+#: archive.php:51 index.php:48 search.php:41
 msgid "Previous page"
 msgstr "이전 쪽"
 
